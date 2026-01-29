@@ -1,0 +1,55 @@
+# Core LaTeX/PDFLaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+
+# BibTeX/Biber auxiliary files
+*.bbl
+*.blg
+*.nav
+*.snm
+
+# DVI/PS related files
+*.dvi
+*.ps
+
+# SyncTeX files
+*.synctex.gz
+
+# Indexing/Glossary files
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.ist
+*.acn
+*.acr
+*.alg
+
+# Editor specific files (e.g., Kile, TeXstudio)
+*.bak
+*.old
+*.swp
+*~
+.#*
+
+# Temporary/Cache files
+*.maf
+*.mtc
+*.mtc1
+*.fdb_latexmk
+*.synctex.gz(busy)
+
+# Output directories (if used)
+# /build/
+# /out/
